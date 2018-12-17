@@ -5673,7 +5673,7 @@ h2.title {
 }
 .sidebar[data-background-color="black"] .sidebar-background:after,
 .off-canvas-sidebar[data-background-color="black"] .sidebar-background:after {
-  background: #000;
+  background: #757575;
   opacity: .8;
 }
 .sidebar[data-background-color="red"],
